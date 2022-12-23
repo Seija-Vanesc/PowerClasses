@@ -1,0 +1,27 @@
+Power Classes:
+A mod that adds 4 new Classes, Items, and Bosses
+
+Items:
+Berzurkers Bane
+Efrif Sword
+Colden
+Efrif Elzar
+Blaze Burn (Bit Buggy)
+Chaos Devotion
+Mythic Efrif Dagger (A lesser Water Bolt)
+Souls of Efrif (Currently Dropped by Hardmode Zombies)
+
+
+Music:
+(Not yet implamented)
+
+/*Public Play Beta Testing*/
+
+
+Mod Crew:
+Sprites made by GodofBird & BossEnder
+Music by Antibody
+Coded by Seija Vanesc
+
+Join my discord to keep up on the updates
+https://discord.gg/wufZ54yBAM
